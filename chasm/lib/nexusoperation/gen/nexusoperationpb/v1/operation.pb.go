@@ -858,7 +858,7 @@ var File_temporal_server_chasm_lib_nexusoperation_proto_v1_operation_proto proto
 
 const file_temporal_server_chasm_lib_nexusoperation_proto_v1_operation_proto_rawDesc = "" +
 	"\n" +
-	"Atemporal/server/chasm/lib/nexusoperation/proto/v1/operation.proto\x121temporal.server.chasm.lib.nexusoperation.proto.v1\x1a\x19google/protobuf/any.proto\x1a\x1egoogle/protobuf/duration.proto\x1a\x1fgoogle/protobuf/timestamp.proto\x1a$temporal/api/common/v1/message.proto\x1a%temporal/api/failure/v1/message.proto\x1a'temporal/api/sdk/v1/user_metadata.proto\x1a9temporal/server/chasm/lib/callback/proto/v1/message.proto\"\xd5\n" +
+	"Atemporal/server/chasm/lib/nexusoperation/proto/v1/operation.proto\x121temporal.server.chasm.lib.nexusoperation.proto.v1\x1a9temporal/server/chasm/lib/callback/proto/v1/message.proto\x1a\x19google/protobuf/any.proto\x1a\x1egoogle/protobuf/duration.proto\x1a\x1fgoogle/protobuf/timestamp.proto\x1a$temporal/api/common/v1/message.proto\x1a%temporal/api/failure/v1/message.proto\x1a'temporal/api/sdk/v1/user_metadata.proto\"\xd5\n" +
 	"\n" +
 	"\x0eOperationState\x12Z\n" +
 	"\x06status\x18\x01 \x01(\x0e2B.temporal.server.chasm.lib.nexusoperation.proto.v1.OperationStatusR\x06status\x12\x1f\n" +
